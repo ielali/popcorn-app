@@ -1,6 +1,6 @@
 # Please use the [official repository](https://github.com/popcorn-org/popcorn-app), thanks!
 
-#Popcorn time [![Dependency Status](https://david-dm.org/isra17/popcorn-app.svg?theme=shields.io)](https://david-dm.org/popcorn-team/popcorn-app)
+#Popcorn time ![Icon](http://www.dadall.info/blog/public/Logos/PopcornTime-logo.png)
 
 ### Idea
 
