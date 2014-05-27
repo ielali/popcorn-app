@@ -1,5 +1,3 @@
-# Please use the [official repository](https://github.com/popcorn-org/popcorn-app), thanks!
-
 #Popcorn time ![Icon](http://www.dadall.info/blog/public/Logos/PopcornTime-logo.png)
 
 ### Idea
